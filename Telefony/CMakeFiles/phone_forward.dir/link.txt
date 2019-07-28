@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11 -Wall -Wextra -O3 -DNDEBUG   CMakeFiles/phone_forward.dir/src/phone_forward.c.o CMakeFiles/phone_forward.dir/src/text_interface.c.o CMakeFiles/phone_forward.dir/src/phone_forward_base.c.o CMakeFiles/phone_forward.dir/src/phone_forward_main.c.o  -o phone_forward -rdynamic 

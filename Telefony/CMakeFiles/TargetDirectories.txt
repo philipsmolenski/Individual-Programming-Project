@@ -1,0 +1,4 @@
+/home/golkarolka/Documents/IPP/wyslij/IPP-ps394742/CMakeFiles/edit_cache.dir
+/home/golkarolka/Documents/IPP/wyslij/IPP-ps394742/CMakeFiles/phone_forward.dir
+/home/golkarolka/Documents/IPP/wyslij/IPP-ps394742/CMakeFiles/rebuild_cache.dir
+/home/golkarolka/Documents/IPP/wyslij/IPP-ps394742/CMakeFiles/doc.dir

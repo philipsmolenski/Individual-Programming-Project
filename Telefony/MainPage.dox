@@ -1,0 +1,31 @@
+/**
+@mainpage Dokumentacja zadania telefony
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu 
+operacji na numerach telefonów.
+
+Pliki phone_forward.h i phone_forward.c zawierają
+interfejs i implementację klasy przechowującej
+przekierowania numerów telefonicznych.
+
+Plik phone_forward.sh udostępnia działanie dodatkowej funkcji.
+
+Pliki phone_forward_base.h i phone_forward_base.c 
+zawierają interfejs i implementację klasy umożliwiającej 
+wykonywanie operacji na wielu bazach przekierowań.
+
+Pliki text_interface.h i text_interface.c zawierają 
+interfejs i implementację klasy udostępniającej powyższe
+operacje poprzez interfejs tekstowy.
+
+Plik główny main.c korzystając z powyższych klas pozwala
+po skompilowaniu utworzyć plik wykonywalny phone_forward,
+udostępniając program użytkownikowi.
+
+*/
